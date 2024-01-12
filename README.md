@@ -1,1 +1,2 @@
-# otus-aqa-python-2022
+# Курс Python QA Engineer в OTUS 2022
+https://otus.ru/lessons/avtomatizaciya-web-testirovaniya/

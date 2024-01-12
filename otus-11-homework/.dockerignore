@@ -1,0 +1,10 @@
+.venv/
+venv/
+
+.idea/
+
+logs/
+.logs/
+
+.git
+.cache
